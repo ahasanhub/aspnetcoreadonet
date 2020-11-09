@@ -1,0 +1,9 @@
+E:\Ahasan\Github\Projects\aspnetcoreadonet\src\StudentManagement.DataAccess\bin\Debug\netcoreapp3.1\StudentManagement.DataAccess.deps.json
+E:\Ahasan\Github\Projects\aspnetcoreadonet\src\StudentManagement.DataAccess\bin\Debug\netcoreapp3.1\StudentManagement.DataAccess.dll
+E:\Ahasan\Github\Projects\aspnetcoreadonet\src\StudentManagement.DataAccess\obj\Debug\netcoreapp3.1\StudentManagement.DataAccess.csprojAssemblyReference.cache
+E:\Ahasan\Github\Projects\aspnetcoreadonet\src\StudentManagement.DataAccess\obj\Debug\netcoreapp3.1\StudentManagement.DataAccess.AssemblyInfoInputs.cache
+E:\Ahasan\Github\Projects\aspnetcoreadonet\src\StudentManagement.DataAccess\obj\Debug\netcoreapp3.1\StudentManagement.DataAccess.AssemblyInfo.cs
+E:\Ahasan\Github\Projects\aspnetcoreadonet\src\StudentManagement.DataAccess\bin\Debug\netcoreapp3.1\StudentManagement.DataAccess.pdb
+E:\Ahasan\Github\Projects\aspnetcoreadonet\src\StudentManagement.DataAccess\obj\Debug\netcoreapp3.1\StudentManagement.DataAccess.csproj.CoreCompileInputs.cache
+E:\Ahasan\Github\Projects\aspnetcoreadonet\src\StudentManagement.DataAccess\obj\Debug\netcoreapp3.1\StudentManagement.DataAccess.dll
+E:\Ahasan\Github\Projects\aspnetcoreadonet\src\StudentManagement.DataAccess\obj\Debug\netcoreapp3.1\StudentManagement.DataAccess.pdb
