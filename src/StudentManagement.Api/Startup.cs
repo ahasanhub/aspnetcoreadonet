@@ -10,6 +10,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using StudentManagement.Api.Middleware;
 using StudentManagement.DataAccess;
 
 namespace StudentManagement.Api
@@ -43,6 +44,7 @@ namespace StudentManagement.Api
             app.UseRouting();
 
             app.UseAuthorization();
+            app.UseMiddleware<ApiKeyMiddleware>();
 
             app.UseEndpoints(endpoints =>
             {

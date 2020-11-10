@@ -4,9 +4,11 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using StudentManagement.Api.Attributes;
 
 namespace StudentManagement.Api.Controllers
 {
+    //[ApiKey]
     [ApiController]
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
